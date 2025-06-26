@@ -30,7 +30,7 @@ An interactive Variational Autoencoder demo that takes you from raw MNIST digits
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/vae-playground.git
+git clone https://github.com/AshwathKarunakaram/vae_playground
 cd vae-playground
 python3 -m venv venv
 source venv/bin/activate       # or `venv\Scripts\activate` on Windows
